@@ -1,0 +1,19 @@
+[
+  {
+    "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
+    "image": "devices/A315-35-1.png",
+    "main": true
+  },
+  {
+    "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
+    "image": "devices/A315-35-2.png"
+  },
+  {
+    "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
+    "image": "devices/A315-35-3.png"
+  },
+  {
+    "device": "14 12Gb/512Gb White",
+    "image": "devices/xiaomi-1.webp"
+  }
+]

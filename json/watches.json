@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "SM-R890 Galaxy Watch4 Classic 46mm Black",
+    "weight": 52,
+    "memory": 16,
+    "diagonal": 1.4,
+    "resolution_width": 450,
+    "resolution_height": 450,
+    "price": 7699,
+    "link": "https://maximum.md/ru/6252931/",
+    "battery": 361
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Watch S1 GL Black",
+    "weight": 36,
+    "memory": null,
+    "diagonal": 1.43,
+    "resolution_width": 466,
+    "resolution_height": 466,
+    "price": 3199,
+    "link": "https://maximum.md/ru/6405794/",
+    "battery": 471
+  },
+  {
+    "brand": "Apple",
+    "model": "Watch Ultra GPS/Cellular Titanium 49mm Green Alpine MQFN3",
+    "weight": 61,
+    "memory": 32,
+    "diagonal": 1.93,
+    "resolution_width": 410,
+    "resolution_height": 502,
+    "price": 13799,
+    "link": "https://maximum.md/ru/6467731/",
+    "battery": 542
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "LS05 Solar Lite",
+    "weight": 54,
+    "memory": null,
+    "diagonal": 1.38,
+    "resolution_width": 240,
+    "resolution_height": 240,
+    "price": 419,
+    "link": "https://maximum.md/ru/6634616/",
+    "battery": 340
+  }
+]

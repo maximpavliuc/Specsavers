@@ -1,0 +1,18 @@
+[
+  {
+    "image": "slides/slide1.jpg",
+    "text": "Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "image": null,
+    "text": "Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices."
+  },
+  {
+    "image": "slides/slide3.jpg",
+    "text": null
+  },
+  {
+    "image": null,
+    "text": null
+  }
+]

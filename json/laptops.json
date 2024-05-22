@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "Chuwi",
+    "model": "GemiBook XPro 14.1\"",
+    "weight": 1460,
+    "memory": 256,
+    "diagonal": 14.1,
+    "resolution_width": 1920,
+    "resolution_height": 1080,
+    "price": 4879,
+    "link": "https://atehno.md/products/chuwi-gemibook-xpro-141-141-fhd-1920x1080-intel-n100-0834ghz-8gb-ram-256gb-m2-2280-gpu-intel-uhd-graphics-win11h-9857901654488",
+    "ram": 8,
+    "cpu": "Intel Processor N100",
+    "video_card": "Intel UHD Graphics"
+  },
+  {
+    "brand": "ACER",
+    "model": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
+    "weight": 1900,
+    "memory": 256,
+    "diagonal": 15.6,
+    "resolution_width": 1920,
+    "resolution_height": 1080,
+    "price": 4899,
+    "link": "https://atehno.md/products/acer-aspire-a31535-pure-silver-nxa6leu00f-156-ips-fhd-intel-celeron-n4500-2xcore-1128ghz-8gb-2x4gb-ddr4-ram-256gb-pcie-nvme-ssd-intel-uhd-graphics-wifiacbt-50-rj45-367wh-2cell-9857901682658",
+    "ram": 8,
+    "cpu": "Intel Celeron N4500",
+    "video_card": "Intel UHD Graphics"
+  },
+  {
+    "brand": "HP",
+    "model": "Laptop 15 Natural Silver (15-fc0013ci), 15.6\" IPS FHD 250 nits",
+    "weight": 1590,
+    "memory": 512,
+    "diagonal": 15.6,
+    "resolution_width": 1920,
+    "resolution_height": 1080,
+    "price": 6899,
+    "link": "https://atehno.md/products/hp-laptop-15-natural-silver-15fc0013ci-156-ips-fhd-250-nits-amd-ryzen-3-7320u-4xcore-2441-ghz-8gb-on-board-lpddr5-ram-512gb-pcie-nvme-ssd-amd-radeon-610m-no-odd-wifiax6bt53-type-9857901677302",
+    "ram": 8,
+    "cpu": "AMD Ryzen 3 7320U",
+    "video_card": "AMD Radeon 610M"
+  },
+  {
+    "brand": "ACER",
+    "model": "Aspire A315-24P Pure Silver (NX.KDEEU.007) 15.6\" IPS FHD",
+    "weight": 1780,
+    "memory": 512,
+    "diagonal": 15.6,
+    "resolution_width": 1920,
+    "resolution_height": 1080,
+    "price": 8449,
+    "link": "https://atehno.md/products/acer-aspire-a31524p-pure-silver-nxkdeeu007-156-ips-fhd-amd-ryzen-5-7520u-4xcore-2843ghz-16gb-onboard-lpddr5-ram-512gb-pcie-nvme-ssd-amd-radeon-610m-wifi6axbt-51-50wh-3cell-720p-h-9857901682580",
+    "ram": 16,
+    "cpu": "AMD Ryzen 5 7520U",
+    "video_card": "AMD Radeon 610M"
+  }
+]

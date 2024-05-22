@@ -1,0 +1,37 @@
+[
+  {
+    "model": "Intel Processor N100",
+    "cores": 4,
+    "frequency": 3400
+  },
+  {
+    "model": "Intel Celeron N4500",
+    "cores": 2,
+    "frequency": 2800
+  },
+  {
+    "model": "AMD Ryzen 3 7320U",
+    "cores": 4,
+    "frequency": 4100
+  },
+  {
+    "model": "AMD Ryzen 5 7520U",
+    "cores": 4,
+    "frequency": 4300
+  },
+  {
+    "model": "MediaTek Helio G85",
+    "cores": 8,
+    "frequency": 2000
+  },
+  {
+    "model": "Mediatek Dimensity 6100+",
+    "cores": 8,
+    "frequency": 2200
+  },
+  {
+    "model": "Qualcomm Snapdragon 8 Gen 3",
+    "cores": 8,
+    "frequency": 3300
+  }
+]
