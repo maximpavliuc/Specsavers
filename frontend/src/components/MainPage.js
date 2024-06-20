@@ -131,7 +131,8 @@ const MainPage = ({slides}) => {
     // Блок главной страницы
     return (
         <div>
-            <div className="main-text">Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor urna nunc id cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices.</div>
+            <div className="main-text">В современном мире, насыщенном множеством предложений и новейших технологических решений, выбор подходящего товара может оказаться сложной задачей. Как выбрать идеальный смартфон, который соответствует вашим требованиям? Как найти телевизор, который подарит наилучшие впечатления от просмотра? Как определить, какой ноутбук обеспечит вам необходимую производительность для работы и отдыха? В ответ на эти вопросы приходит на помощь система сравнения характеристик товара — Specsavers.</div>
+            <div className="main-text">Specsavers — это инновационная платформа, разработанная для облегчения процесса выбора и сравнения различных товаров. С помощью Specsavers вы можете быстро и легко получить подробную информацию о характеристиках, функциях и возможностях интересующих вас продуктов. Наша цель — предоставить вам все необходимые данные, чтобы вы могли принять взвешенное и обоснованное решение.</div>
             <CustomCarousel>
                 {slides.map((slide) => {
                     return <Slide slide={slide} key={slide.id} />;

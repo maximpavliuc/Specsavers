@@ -1,12 +1,12 @@
 [
   {
     "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
-    "image": "devices/A315-35-1.png",
-    "main": true
+    "image": "devices/A315-35-1.png"
   },
   {
     "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
-    "image": "devices/A315-35-2.png"
+    "image": "devices/A315-35-2.png",
+    "main": true
   },
   {
     "device": "Aspire A315-35 Pure Silver (NX.A6LEU.00F) 15.6\" IPS FHD",
@@ -15,5 +15,81 @@
   {
     "device": "14 12Gb/512Gb White",
     "image": "devices/xiaomi-1.webp"
+  },
+  {
+    "device": "GemiBook XPro 14.1\"",
+    "image": "devices/nout2.png"
+  },
+  {
+    "device": "Laptop 15 Natural Silver (15-fc0013ci), 15.6\" IPS FHD 250 nits",
+    "image": "devices/nout3.jpg"
+  },
+  {
+    "device": "Aspire A315-24P Pure Silver (NX.KDEEU.007) 15.6\" IPS FHD",
+    "image": "devices/nout4.png"
+  },
+  {
+    "device": "Aspire A315-24P Pure Silver (NX.KDEEU.007) 15.6\" IPS FHD",
+    "image": "devices/nout5.png"
+  },
+  {
+    "device": "Poco C65 6Gb/128Gb Black",
+    "image": "devices/tel1.webp"
+  },
+  {
+    "device": "Redmi 13C 8Gb/256Gb Black",
+    "image": "devices/tel2.webp"
+  },
+  {
+    "device": "Redmi 13C 8Gb/256Gb Black",
+    "image": "devices/tel3.webp"
+  },
+  {
+    "device": "SM-A155 Galaxy A15 8Gb/256Gb Black",
+    "image": "devices/tel4.webp"
+  },
+  {
+    "device": "SM-R890 Galaxy Watch4 Classic 46mm Black",
+    "image": "devices/watch1.webp"
+  },
+  {
+    "device": "SM-R890 Galaxy Watch4 Classic 46mm Black",
+    "image": "devices/watch2.webp"
+  },
+  {
+    "device": "SM-R890 Galaxy Watch4 Classic 46mm Black",
+    "image": "devices/watch3.webp"
+  },
+  {
+    "device": "Watch S1 GL Black",
+    "image": "devices/watch4.webp"
+  },
+  {
+    "device": "Watch S1 GL Black",
+    "image": "devices/watch5.webp"
+  },
+  {
+    "device": "Watch S1 GL Black",
+    "image": "devices/watch6.webp"
+  },
+  {
+    "device": "Watch Ultra GPS/Cellular Titanium 49mm Green Alpine MQFN3",
+    "image": "devices/watch7.webp"
+  },
+  {
+    "device": "Watch Ultra GPS/Cellular Titanium 49mm Green Alpine MQFN3",
+    "image": "devices/watch8.webp"
+  },
+  {
+    "device": "Watch Ultra GPS/Cellular Titanium 49mm Green Alpine MQFN3",
+    "image": "devices/watch9.webp"
+  },
+  {
+    "device": "LS05 Solar Lite",
+    "image": "devices/watch10.webp"
+  },
+  {
+    "device": "LS05 Solar Lite",
+    "image": "devices/watch11.webp"
   }
 ]
